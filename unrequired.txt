@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 The weather is splendid today
+=======
+unrequired file (Ненужный файл)
+This is important file. Definitely.
+>>>>>>> 6a210a4615868ef79c443742475cdde51df4a5c6
